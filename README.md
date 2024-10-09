@@ -120,12 +120,4 @@ Please make sure your code adheres to our coding standards and has been tested b
 
 ## License
 
-This project is licensed under the [Your License]. For more details, see the `LICENSE` file in this repository.
-
-
-- **Version Control**: Use version control (Git) to track changes, collaborate, and maintain your codebase. Make regular commits with meaningful messages.
-
-
-
-
-Feel free to replace `[Your Scripting Language]` and `[Your License]` with the specific scripting language you're using and the appropriate license for your project.
+When we have one HAHAHAHA c;
